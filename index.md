@@ -29,5 +29,5 @@ I have instructed introductory courses at both UIC and MSU. My teaching emphasiz
 I have spent lots of time during projects working on some things that I hoped would make a paper but...do not. They interested me at the time and hopefully interest you too! Take a look at my [Extras page](extras.html).
 
 **Contact:** [kuceraa1@msu.edu]
-**Office:** [Building and room, optional]  
-**CV:** [[Add a link to your CV when available](https://github.com/AlexanderKucera/CV/blob/715697804856323cb4149a70d7c7657d2f99d42e/CV_26.pdf)]
+**Office:** 486 W Circle Dr, East Lansing, MI, 48824  
+**[CV](https://github.com/AlexanderKucera/CV/blob/715697804856323cb4149a70d7c7657d2f99d42e/CV_26.pdf)** 
