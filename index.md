@@ -30,4 +30,4 @@ I have spent lots of time during projects working on some things that I hoped wo
 
 **Contact:** [kuceraa1@msu.edu]
 **Office:** [Building and room, optional]  
-**CV:** [Add a link to your CV when available]
+**CV:** [[Add a link to your CV when available](https://github.com/AlexanderKucera/CV/blob/715697804856323cb4149a70d7c7657d2f99d42e/CV_26.pdf)]
