@@ -11,7 +11,7 @@ My research focuses broadly on the economic of crime. These projects can be spli
 
 ## Working papers
 
-**[Illicit Drug Substitution and Crime Dynamics: Evidence from the Taliban's Narcotics Ban]**   
+**Illicit Drug Substitution and Crime Dynamics: Evidence from the Taliban's Narcotics Ban[Draft](https://github.com/AlexanderKucera/Papers/blob/main/Illicit_Drug_Substituion_Crime_Dynamics.pdf)**   
 I look at the fallout of the Taliban's ban on opium cultivation in Afghanistan. I connect this international shock to retail markets by utilizing consumption data from a wastewater program in Australia. I show that herion is an inelastic good and document some substitution into other drugs. I also show evidence that the price shock following the ban increasing the rate of economically motivated crime in cities with higher pre-shock heroin consumption.
 
 **[The Post-Fentanyl Urbanization of the Opioid Epidemic](https://docs.iza.org/dp18562.pdf)**  
