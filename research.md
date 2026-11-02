@@ -15,7 +15,7 @@ My research focuses broadly on the economic of crime. These projects can be spli
 I look at the fallout of the Taliban's ban on opium cultivation in Afghanistan. I connect this international shock to retail markets by utilizing consumption data from a wastewater program in Australia. I show that herion is an inelastic good and document some substitution into other drugs. I also show evidence that the price shock following the ban increasing the rate of economically motivated crime in cities with higher pre-shock heroin consumption.
 
 **The Post-Fentanyl Urbanization of the Opioid Epidemic [IZA Discussion Paper 18562](https://docs.iza.org/dp18562.pdf)**  
-With [Zach Porreca](https://zachporreca.github.io/) and [Adam Scavette](https://adamscavette.github.io/). *[Revise and resubmit at the Journal of Regional Science]*
+With [Zach Porreca](https://zachporreca.github.io/) and [Adam Scavette](https://adamscavette.github.io/). *[Revisions requested at the Journal of Regional Science]*
 We document how the introduction of fentanyl into the drug supply has shifted the geographic concentration of overdoses towards more urban locations.
 
 **[Using Seizures and Wastewater Data to Infer Cocaine Flows in Europe]**  
